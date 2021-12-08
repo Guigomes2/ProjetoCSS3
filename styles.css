@@ -8,9 +8,33 @@ body {
 }
 
 #menu {
-    width: 900px;
-    height: 50px;
     background: #c5c5b2;
-    padding: 1px solid #000;
-    border-bottom: 1px solid #ccc;
+    border: 1px solid #b2b2a5;
+    padding: 18px;
+    text-align: center;
+}
+
+a {
+    color:#4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: auto;
+}
+
+#conteudo {
+    background: #e8e8d9;
+    padding: 15px;
+}
+
+h4  {
+    text-align: center;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.2em;
+}
+
+.img_campanha {
+   border: 10px #c3c3ae;
 }
